@@ -1,5 +1,7 @@
 # Micrograd-Style Autograd Implementation
 
+![Micrograd reference image](./micrograd-reference.jpeg)
+
 This project is a small scalar automatic-differentiation engine and
 multi-layer perceptron written from scratch in Python. It was created while
 following Andrej Karpathy's **micrograd** video, with the goal of making
